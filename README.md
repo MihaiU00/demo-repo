@@ -1,3 +1,3 @@
 # Demo
 
-Description type!
+Description type as example!
